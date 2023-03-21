@@ -7,5 +7,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=140322&width=435&lines=Content+;Create+;Collaborate)](https://git.io/typing-svg)
 
 
+👨‍💻: A internet-taught Computer nerd.
 
+👾: Firm believer of Blockchain transitioning our world.
+
+🛠: Love collaborating for for open source projects, code with new people and enjoy working in teams be it in projects or hackathons.
+
+🛸: Like exploring new tech innovations and building cool stuffs.
+
+📷: Content creature.🎴
 
